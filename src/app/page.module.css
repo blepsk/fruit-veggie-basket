@@ -1,0 +1,30 @@
+.container {
+  padding: 20px;
+}
+
+.main {
+  display: flex;
+}
+
+.list {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+}
+
+.listContainer {
+  border: 3px #DADADC solid;
+  width: 300px;
+  margin: 10px;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #DEE0E1;
+  height: 30px;
+  font-weight: 600;
+}
